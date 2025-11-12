@@ -28,12 +28,6 @@ Progetto sviluppato come esercitazione universitaria per comprendere:
   ---
 ## 🚀 Installazione locale
 1. Clona il repository:
-
-  ```bash
-   git clone https://github.com/<tuo-username>/laravel-social-gif.git
-   cd laravel-social-gif
-
-
    ```bash
    git clone https://github.com/<tuo-username>/laravel-social-gif.git
    cd laravel-social-gif
