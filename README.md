@@ -20,18 +20,27 @@
 ---
 
 ## Screenshot
-
 ### Home
 ![Home](public/img/home.png)
-
-### Creazione Post
-![Creazione Post](public/img/create_post.png)
 
 ### Modale con dettaglio contenuto
 ![Modale](public/img/modal_view.png)
 
+### Login
+![Login](public/img/login.png)
+
+### Registrazione
+![Registrazione](public/img/register.png)
+
 ### Esempio ricerca libro
-![Ricerca Libro](public/img/search_book.gif)
+![Ricerca Libro](public/img/search_book.png)
+
+### Esempio ricerca GIF supereroe
+![Ricerca GIF](public/img/search_gif.png)
+
+### Database PhpMyAdmin
+![Database](public/img/database_phpmyadmin.png)
+
 
 ---
 
