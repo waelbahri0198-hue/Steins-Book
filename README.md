@@ -1,3 +1,83 @@
+
+# Laravel Social GIF - Steins;Book
+
+**Steins;Book** è un mini social network sviluppato in **Laravel**, dove gli utenti possono registrarsi, effettuare il login, creare post, condividere contenuti, cercare persone e fare ricerche su fumetti e libri tramite API esterne.
+
+---
+
+## Caratteristiche principali
+
+- **Autenticazione utenti:** registrazione, login e gestione della sessione.
+- **Creazione e condivisione post:** possibilità di condividere immagini, titoli
+- **Ricerca contenuti:**
+  - Fumetti tramite API esterna (Comic Vine o simili)
+  - Libri tramite OpenLibrary API
+- **Visualizzazione modale dei contenuti:** cliccando su un risultato si apre una modale con immagine e dettagli.
+- **Like e follow:** gli utenti possono mettere like ai post e seguire altri utenti.
+- **UI responsive:** progettata per funzionare anche su mobile.
+- **Sicurezza:** tutte le richieste POST gestite correttamente con token CSRF.
+
+---
+
+## Screenshot
+
+### Home
+![Home](public/img/home.png)
+
+### Creazione Post
+![Creazione Post](public/img/create_post.png)
+
+### Modale con dettaglio contenuto
+![Modale](public/img/modal_view.png)
+
+### Esempio ricerca libro
+![Ricerca Libro](public/img/search_book.gif)
+
+---
+
+## Struttura del progetto
+## Tecnologie utilizzate
+
+- PHP 8.x
+- Laravel 10.x
+- JavaScript (fetch API)
+- HTML5 / CSS3
+- MySQL
+
+---
+
+## Installazione
+
+1. Clona il repository:
+bash
+git clone https://github.com/waelbahri0198-hue/Steins-Book.git
+2. Entra nella cartella del progetto:
+
+cd Steins-Book
+
+
+3.Installa le dipendenze:
+
+composer install
+npm install
+npm run dev
+
+
+4.Copia il file .env.example in .env e configura database e chiavi API:
+
+cp .env.example .env
+php artisan key:generate
+
+
+5.Esegui le migrazioni:
+
+php artisan migrate
+
+
+6.Avvia il server:
+
+php artisan serve
+
 <<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
@@ -67,7 +147,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Code of Conduct        
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
