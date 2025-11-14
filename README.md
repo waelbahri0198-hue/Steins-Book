@@ -87,8 +87,8 @@ php artisan migrate
 
 php artisan serve
 
-<<<<<<< HEAD
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+-----
+<p align="center"><img src="https://www.google.com/imgres?q=laravel-logo%20lockup-cmyk-red.svg&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Flaravel%2Fart%2Fmaster%2Flogo-lockup%2F5%2520SVG%2F2%2520CMYK%2F1%2520Full%2520Color%2Flaravel-logolockup-cmyk-red.svg&imgrefurl=https%3A%2F%2Fgithub.com%2Fstmeem%2Flaravel-cms&docid=de2a5Tl2bQi6dM&tbnid=-QPe522iuiTxYM&vet=12ahUKEwj_ruP1tvKQAxW82AIHHf7oORwQM3oECBgQAA..i&w=800&h=296&hcb=2&itg=1&ved=2ahUKEwj_ruP1tvKQAxW82AIHHf7oORwQM3oECBgQAA" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
