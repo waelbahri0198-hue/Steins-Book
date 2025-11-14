@@ -21,25 +21,25 @@
 
 ## Screenshot
 ### Home
-![Home](public/img/home.png)
+![Home](public/images/home.png)
 
 ### Modale con dettaglio contenuto
-![Modale](public/img/modal_view.png)
+![Modale](public/images/modal_view.png)
 
 ### Login
-![Login](public/img/login.png)
+![Login](public/images/login.png)
 
 ### Registrazione
-![Registrazione](public/img/register.png)
+![Registrazione](public/images/register.png)
 
 ### Esempio ricerca libro
-![Ricerca Libro](public/img/search_book.png)
+![Ricerca Libro](public/images/search_book.png)
 
 ### Esempio ricerca GIF supereroe
-![Ricerca GIF](public/img/search_gif.png)
+![Ricerca GIF](public/images/search_gif.png)
 
 ### Database PhpMyAdmin
-![Database](public/img/database_phpmyadmin.png)
+![Database](public/images/database_phpmyadmin.png)
 
 
 ---
