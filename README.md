@@ -1,4 +1,4 @@
-#Steins-Book – Social Network backend-first (Laravel 10)
+###Steins-Book – Social Network backend-first (Laravel 10)
 
 
 **Steins;Book** è un mini social network sviluppato in **Laravel**, dove gli utenti possono registrarsi, effettuare il login, creare post, condividere contenuti, cercare persone e fare ricerche su fumetti e libri tramite API esterne.
