@@ -1,5 +1,5 @@
+Steins-Book – Social Network backend-first (Laravel 10)
 
-# Laravel Social GIF - Steins;Book
 
 **Steins;Book** è un mini social network sviluppato in **Laravel**, dove gli utenti possono registrarsi, effettuare il login, creare post, condividere contenuti, cercare persone e fare ricerche su fumetti e libri tramite API esterne.
 
@@ -52,6 +52,7 @@
 - JavaScript (fetch API)
 - HTML5 / CSS3
 - MySQL
+
 
 ---
 
